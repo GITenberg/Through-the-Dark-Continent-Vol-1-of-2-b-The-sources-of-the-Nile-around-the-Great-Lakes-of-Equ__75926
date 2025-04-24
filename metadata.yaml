@@ -1,0 +1,35 @@
+_repo: Through-the-Dark-Continent-Vol-1-of-2-b-The-sources-of-the-Nile-around-the-Great-Lakes-of-Equ__75926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Stanley, Henry Morton, Sir
+    - Stanley, H. M. (Henry Morton)
+    - Rowlands, John
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Morton_Stanley
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75926'
+language: en
+pgterms:marc905: 20070825063337stanley
+pgterms:marc906: '1899'
+pgterms:marc907: gb
+production_note: Aaron Adrignola, Martin Rowe, KD Weeks, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bGeorge Newnes, Limited, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Through the Dark Continent, Vol. 1 (of 2) : $b The sources of the Nile around
+  the Great Lakes of Equatorial Africa and down the Livingstone River to the Atlantic
+  Ocean'
+url: http://www.gutenberg.org/ebooks/75926
